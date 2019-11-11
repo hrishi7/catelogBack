@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Lenovo K10",
+		"image": "no-photo.jpg",
+		"description": "Good product",
+		"rating": "8",
+		"price": "82",
+		"seller": "Heartz Pvt ltd.",
+		"manufacturer": "K.B. Sinha",
+		"discount": "3"
+	},
+	{
+		"name": "Lenovo K20",
+		"image": "no-photo.jpg",
+		"description": "Good product",
+		"rating": "8",
+		"price": "82",
+		"seller": "Heartz Pvt ltd.",
+		"manufacturer": "K.B. Sinha",
+		"discount": "3"
+	},
+	{
+		"name": "Lenovo K30",
+		"image": "no-photo.jpg",
+		"description": "Good product",
+		"rating": "8",
+		"price": "82",
+		"seller": "Heartz Pvt ltd.",
+		"manufacturer": "K.B. Sinha",
+		"discount": "3"
+	},
+	{
+		"name": "Lenovo K40",
+		"image": "no-photo.jpg",
+		"description": "Good product",
+		"rating": "8",
+		"price": "82",
+		"seller": "Heartz Pvt ltd.",
+		"manufacturer": "K.B. Sinha",
+		"discount": "3"
+	},
+	{
+		"name": "Lenovo K50",
+		"image": "no-photo.jpg",
+		"description": "Good product",
+		"rating": "8",
+		"price": "82",
+		"seller": "Heartz Pvt ltd.",
+		"manufacturer": "K.B. Sinha",
+		"discount": "3"
+	},
+	{
+		"name": "Lenovo K60",
+		"image": "no-photo.jpg",
+		"description": "Good product",
+		"rating": "8",
+		"price": "82",
+		"seller": "Heartz Pvt ltd.",
+		"manufacturer": "K.B. Sinha",
+		"discount": "3"
+	},
+	{
+		"name": "Lenovo K70",
+		"image": "no-photo.jpg",
+		"description": "Good product",
+		"rating": "8",
+		"price": "82",
+		"seller": "Heartz Pvt ltd.",
+		"manufacturer": "K.B. Sinha",
+		"discount": "3"
+	},
+	{
+		"name": "Lenovo K80",
+		"image": "no-photo.jpg",
+		"description": "Good product",
+		"rating": "8",
+		"price": "82",
+		"seller": "Heartz Pvt ltd.",
+		"manufacturer": "K.B. Sinha",
+		"discount": "3"
+	}
+]
